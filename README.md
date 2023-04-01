@@ -21,7 +21,7 @@
 
 <div style="display: flex; justify-content: center;">
     <div style="width: 100%; display: flex; justify-content: space-between;" align="center">
-        <a style="display: flex; flex-direction: column;" href="https://reactjs.org">
+        <a style="" href="https://reactjs.org">
             <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207">
             <span>React.js</span>
         </a>
